@@ -1,3 +1,10 @@
+numpy==1.26.1
+matplotlib==3.8.0
+pandas==2.1.1
+scipy==1.11.3
+statsmodels==0.14.0
+networkx==3.1
+
 # Core modules (mandatory)
 jupyterlite-core==0.2.3
 jupyterlab~=4.0.11
@@ -5,10 +12,3 @@ notebook~=7.0.7
 
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.2.3
-
-numpy==1.26.1
-matplotlib==3.8.0
-pandas==2.1.1
-scipy==1.11.3
-statsmodels==0.14.0
-networkx==3.1
